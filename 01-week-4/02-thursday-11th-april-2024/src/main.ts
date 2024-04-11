@@ -5,7 +5,6 @@
 //     hackerSpeak("programming is fun") ➞ "pr0gr4mm1ng 15 fun"
 //     hackerSpeak("become a coder") ➞ "b3c0m3 4 c0d3r"
 
-// function that takes a string 
 const hackerSpeak = (str : string) => {
 
     const hackerSpeakStr = str
@@ -19,6 +18,3 @@ const hackerSpeak = (str : string) => {
 };
 
 console.log(hackerSpeak('javascript is cool'));
-
-
-
