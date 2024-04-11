@@ -22,13 +22,3 @@ console.log(hackerSpeak('javascript is cool'));
 
 
 
-// replace a with 4
-
-// replace e with 3
-
-// replace i with 1
-
-// replace o with 0
-
-// replace s with 5
-
