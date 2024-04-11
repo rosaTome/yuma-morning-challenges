@@ -20,7 +20,7 @@
         names.forEach((name) => {
 
         // gets the first letter of each name and push it to the initials array
-        initials.push(name.charA(0));
+        initials.push(name.charAt(0));
         });
 
         // sort the initials array alphabetically 
